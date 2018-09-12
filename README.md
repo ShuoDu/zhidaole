@@ -1,2 +1,0 @@
-# zhidaole
-zhidaoleIos
